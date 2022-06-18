@@ -1,0 +1,37 @@
+html,
+body {
+    background-color: black;
+    text-align: center;
+    font-family: "Verdana", sans-serif;
+    color: white;
+}
+
+
+.video h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.btn {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.section-text {
+    text-align: center;
+}
+
+.section-text h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.section-text p {
+    font-size: 21px;
+    color: gray;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+}
